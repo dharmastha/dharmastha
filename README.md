@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dharmendra Kumar 
-- 👀 I’m interested in coding 
-- 🌱 I’m currently preparing for gate 22.
+- 👀 I’m fullstack (MERN) software developer.
 - 💞️ I’m looking to collaborate on Faang.
 - 📫 How to reach me, contact 9026566613 
 
